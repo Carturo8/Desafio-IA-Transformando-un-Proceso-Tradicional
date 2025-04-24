@@ -18,7 +18,7 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 - Automatizar y personalizar el proceso de recomendaciones de inversión financiera, actualizadas en tiempo real y accesibles a un mayor número de usuarios.
 
 **Descripción de la solución IA:**
-- **Tecnología empleada:** Modelos de: machine learning, procesamiento de lenguaje natural (NLP) y predictivos.  
+- **Tecnología empleada:** Modelos de machine learning, modelo de procesamiento de lenguaje natural (NLP) y modelos predictivos.  
 - **Integración en el flujo:**
   - El cliente ingresa su información financiera y objetivos.
   - Los datos son analizados por modelos de machine learning.
