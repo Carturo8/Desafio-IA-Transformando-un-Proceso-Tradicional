@@ -34,15 +34,15 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 
 ## 4. Comparativa entre Procesos
 
-| Aspecto                    | Proceso Tradicional              | Solución con IA                         |
-|----------------------------|----------------------------------|-----------------------------------------|
-| Velocidad de respuesta     | Lento                            | Alta, automática                        |
-| Costo operativo            | Alto                             | Bajo, eficiente                         |
-| Consistencia de respuestas | Variable                         | Homogénea y mejorada                   |
-| Adaptabilidad              | Limitada                         | Dinámica, con aprendizaje continuo     |
+| Aspecto                    | Proceso Tradicional                             | Solución con IA                                      |
+|----------------------------|-------------------------------------------------|------------------------------------------------------|
+| Velocidad de respuesta     | Lento, no en tiempo real                        | Rápido, automático y en tiempo real                  |
+| Nivel de personalización   | General y poco adaptado al perfil               | Altamente personalizada según datos y comportamiento |
+| Capacidad de atención      | Limitada a la disponibilidad de asesores humanos| Escalable a gran cantidad de usuarios simultáneamente|
+| Costo del servicio         | Elevado, por intervención humana                | Reducido, gracias a la automatización                |
 
 ## 5. Reflexión Personal
 
-Este ejercicio demuestra que la IA no solo mejora la eficiencia, sino que también permite una mayor adaptabilidad y personalización en los procesos. Sin embargo, es crucial asegurar la calidad de los datos, establecer mecanismos de supervisión humana y considerar las implicaciones éticas de cada implementación.
+Repensar un proceso con IA no se trata solo de tecnología, sino de encontrar formas más inteligentes y accesibles de hacer las cosas. Este tipo de ejercicios muestra cómo la innovación puede mejorar lo que ya existe y hacerlo más útil para todos.
 
 ---
