@@ -1,7 +1,7 @@
 # Desafío IA: Transformando un Proceso Tradicional
 
 ## 1. Introducción
-En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso [Asesoría Financiera], muy común en [Finanzas].
+En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso **Asesoría Financiera**, muy común en *Finanzas*.
 
 ## 2. Descripción del Proceso Tradicional
 **Situación actual:**
